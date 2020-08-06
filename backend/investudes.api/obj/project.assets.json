@@ -5372,14 +5372,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/kinvo-back-end-test/backend/backend/kinvo.api.csproj",
-      "projectName": "kinvo.api",
-      "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/kinvo-back-end-test/backend/backend/kinvo.api.csproj",
+      "projectUniqueName": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/investudes.api/investudes.api.csproj",
+      "projectName": "investudes.api",
+      "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/investudes.api/investudes.api.csproj",
       "packagesPath": "/Users/lucasplacido/.nuget/packages/",
-      "outputPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/kinvo-back-end-test/backend/backend/obj/",
+      "outputPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/investudes.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lucasplacido/.config/NuGet/NuGet.Config"
+        "/Users/lucasplacido/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
