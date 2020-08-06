@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/kinvo.test.csproj": {}
+    "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/investudes.test.csproj": {}
   },
   "projects": {
-    "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/kinvo.test.csproj": {
+    "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/investudes.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/kinvo.test.csproj",
-        "projectName": "kinvo.test",
-        "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/kinvo.test.csproj",
+        "projectUniqueName": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/investudes.test.csproj",
+        "projectName": "investudes.test",
+        "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/investudes.test.csproj",
         "packagesPath": "/Users/lucasplacido/.nuget/packages/",
         "outputPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/obj/",
         "projectStyle": "PackageReference",

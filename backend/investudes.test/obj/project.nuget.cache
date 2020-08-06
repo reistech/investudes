@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cAYkJaOl3cQ215oU6Kon+rTQ/rA6fwuXcPK6SQG2GG+oP0WkIrtQ2QEV6T4RHD+ne+mzqf7MQeX+1rHXXjAOHA==",
+  "dgSpecHash": "5otXCCdWTHYVAc0RBVqDqTkZB3adLiUfkYjY8RNsPUrpR6240euVOfJ4MipIJTfeDvpViTFoU37YEfjLgDtXKw==",
   "success": true,
-  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/kinvo-back-end-test/backend/kinvo.test/kinvo.test.csproj",
+  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/investudes/backend/test/investudes.test.csproj",
   "expectedPackageFiles": [
     "/Users/lucasplacido/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/lucasplacido/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
